@@ -48,8 +48,9 @@ To run the Quiz Game Collection on your local machine, follow these steps:
     python sport.py
 
 ## Usage
-•Each game will ask a series of questions related to its topic.
-•You will have three attempts to guess the correct answer for each question.
-•After answering each question, a fun fact will be displayed.
-•At any point, you can choose to switch to another game.
-•Your score will be displayed at the end of the game.
+
+1. Each game will ask a series of questions related to its topic.
+2. You will have three attempts to guess the correct answer for each question.
+3. After answering each question, a fun fact will be displayed.
+4. At any point, you can choose to switch to another game.
+5. Your score will be displayed at the end of the game.
