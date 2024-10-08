@@ -47,8 +47,7 @@ To run the Quiz Game Collection on your local machine, follow these steps:
     python planet.py
     python sport.py
 
-## Usage
-
+**Usage**
 •Each game will ask a series of questions related to its topic.
 •You will have three attempts to guess the correct answer for each question.
 •After answering each question, a fun fact will be displayed.
